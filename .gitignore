@@ -1,0 +1,4 @@
+*.log
+/dir/
+staticdir/dir
+gdff.rtf
